@@ -1,5 +1,4 @@
-# 🧠 IA que Passou no Teste de Turing – Apresentação de Trabalho
-
+# 🧠 IA que Passou no Teste de Turing
 ## 📌 Tema
 Análise de um estudo recente onde uma Inteligência Artificial (GPT-4.5) conseguiu se passar por um ser humano em um Teste de Turing, surpreendendo os pesquisadores e o público.
 
