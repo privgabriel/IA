@@ -17,9 +17,3 @@ O objetivo é avaliar se uma IA consegue se comunicar de forma tão natural que 
 
 ## 💡 Conclusão
 Este estudo mostra como a IA está evoluindo rapidamente e já é capaz de **imitar o comportamento humano com muita precisão**, levantando questões éticas, sociais e técnicas sobre o uso dessas tecnologias.
-
----
-
-📚 Trabalho apresentado por: **[Seu Nome]**  
-📆 Data: **[Data da apresentação]**  
-🎓 Disciplina: **[Nome da disciplina]**
